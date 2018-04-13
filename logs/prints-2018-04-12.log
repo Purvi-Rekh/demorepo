@@ -1,0 +1,6 @@
+15:03:04.835 [main] INFO  resources.base - Driver is initalized
+15:03:22.158 [TestNG-test=Test Login-1] INFO  resources.base - Navigated to website..
+15:04:37.304 [TestNG-test=Validate Home page title-1] INFO  resources.base - Asserttion Successful..
+15:04:44.051 [main] INFO  resources.base - Driver is initalized
+15:04:55.439 [TestNG-test=Test Login-1] INFO  resources.base - Navigated to website..
+16:14:02.743 [TestNG-test=Validate Home page title-1] INFO  resources.base - Asserttion Successful..
